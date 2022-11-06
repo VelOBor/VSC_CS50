@@ -1,0 +1,1 @@
+gcc -o discount discount.c -lcs50
